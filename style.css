@@ -1,0 +1,31 @@
+*{
+  font-family: "DM Serif Text", serif, sans-serif;
+  font-style: normal;
+  color: #fff;
+}
+body{
+  background-image: url(/home/vlad/repos/odin-recipes/images_videos/cafe.jpg);
+}
+.outer {
+  font-weight: bold;
+  font-size: 40px;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1rem solid rgb(255, 255, 255);
+  border-radius: 20px;
+  margin: 100px 300px;
+  background-color: #0007;
+}
+
+.inner {
+  border-radius: 10px;
+  margin: 0;
+  padding: 0.5rem;
+}
+.flex-container {
+  resize: horizontal;
+  overflow: hidden;
+  display: flex;
+  margin: 1em;
+  height: inherit;
+}

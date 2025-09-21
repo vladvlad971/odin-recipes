@@ -1,1 +1,2 @@
 # odin-recipes
+I wanted to create a simple but functional website with real recipes that I knew myself, being a professional cook. I followed the guidelines (even though I wrote in French) and I also added style breaks and images with links to the relevant recipe pages on the home page. Overall, I am quite satisfied with my work, even if there is still a long way to go.
